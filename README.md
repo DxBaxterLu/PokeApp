@@ -24,3 +24,6 @@ Crearemos una aplicación mobile utilizando Phonegap que nos permita interactuar
 
 **Video Youtube**
 -https://youtu.be/zVTYyIe-pAk
+
+**API**
+-https://pokeapi.co/
