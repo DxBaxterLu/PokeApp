@@ -23,7 +23,7 @@ Crearemos una aplicación mobile utilizando Phonegap que nos permita interactuar
 - **Carpeta img para el guardado de cualquier imagen**
 
 **Video Youtube**
--https://youtu.be/zVTYyIe-pAk
+- https://youtu.be/uu3H9FoV8f8
 
 **API**
 -https://pokeapi.co/
