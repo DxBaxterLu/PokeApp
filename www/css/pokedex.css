@@ -1,0 +1,80 @@
+body {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: aquamarine;
+
+}
+
+h3{
+    margin: 5px;
+    position: absolute;
+    float: left;
+}
+
+h5 {
+    margin: 25px;
+    text-align: center;
+}
+
+h6 {
+    margin: 5px;
+    padding: 1px;
+    text-align: center;
+}
+
+img {
+
+    position: relative;
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    display: block;
+    margin-top: 1px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(3, 3, 3);
+    
+}
+
+.header{
+    min-height: 45px;
+    margin: auto;
+    padding: 1px;
+    text-align: center;
+}
+
+.input-group-addon{
+    position: relative;
+    text-align: left;
+    margin-top:21px;
+    padding: 0px;
+    float: left;
+}
+
+.form-control{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    padding: 0px;
+    float: left;
+    
+}
+
+.button {
+    position: relative;
+    text-align: right;
+    margin-left: 125px;
+    padding: 10px;
+    float: left;
+    
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    columns: 2;
+}
+
+.row {
+    margin-bottom: 1rem;
+}
