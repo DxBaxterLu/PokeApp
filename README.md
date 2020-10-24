@@ -21,3 +21,6 @@ Crearemos una aplicación mobile utilizando Phonegap que nos permita interactuar
 - **Carpeta css junto con su archivo pokedex.css y descargaremos las librerias de bootstrap.**
 - **Carpeta js junto con su archivo pokedex.js y descargaremos las librerias de jquery y bootstrap.**
 - **Carpeta img para el guardado de cualquier imagen**
+
+**Video Youtube**
+-https://youtu.be/zVTYyIe-pAk
